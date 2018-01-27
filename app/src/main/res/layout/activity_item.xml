@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".activity.ItemActivity"
+    android:orientation="vertical"
+    android:background="@color/corComponenteSelecionavel"
+    android:weightSum="1">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar_item"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+    </android.support.design.widget.AppBarLayout>
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <!-- Eletrodoméstico: -->
+            <include
+                android:id="@+id/inc_eletro_selecionado"
+                android:clickable="true"
+                layout="@layout/componente_selecionavel" />
+
+            <!-- Potência: -->
+            <include
+                android:id="@+id/inc_potencia_selecionada"
+                android:clickable="true"
+                layout="@layout/componente_selecionavel" />
+
+            <!-- Tempo e Período: -->
+            <include
+                android:id="@+id/inc_tempo_periodo_selecionados"
+                android:clickable="true"
+                layout="@layout/componente_selecionavel_2" />
+
+
+            <!-- Quantidade: -->
+            <include
+                android:id="@+id/inc_quantidade_selecionada"
+                android:clickable="true"
+                layout="@layout/componente_selecionavel" />
+
+            <LinearLayout
+                android:layout_width="125dp"
+                android:layout_height="45dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:layout_marginBottom="@dimen/activity_vertical_margin"
+                android:elevation="4dp"
+                android:background="@drawable/button_rounded_corners">
+
+                <Button
+                    android:id="@+id/bt_salvar_item"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="?android:attr/selectableItemBackground"
+                    android:textColor="@android:color/background_light"
+                    android:textAllCaps="false"
+                    android:textSize="17sp"
+                    android:text="Salvar" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>
+

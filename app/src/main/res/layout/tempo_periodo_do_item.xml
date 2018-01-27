@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:padding="@dimen/activity_horizontal_margin"
+    android:layout_height="wrap_content">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <EditText
+                android:id="@+id/et_tempo_de_entrada"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:hint="Insira o tempo"
+                android:maxLength="6"
+                android:inputType="numberDecimal"
+                android:padding="16dp" />
+
+            <RadioGroup
+                android:id="@+id/rg_opcoes_de_periodo"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <RadioButton
+                    android:id="@+id/rb_minutos_por_dia"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:paddingTop="16dp"
+                    android:paddingBottom="16dp"
+                    android:enabled="false"
+                    android:text="Minutos/Dia"/>
+
+                <RadioButton
+                    android:id="@+id/rb_minutos_por_semana"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:paddingTop="16dp"
+                    android:paddingBottom="16dp"
+                    android:enabled="false"
+                    android:text="Minutos/Semana"/>
+                <RadioButton
+                    android:id="@+id/rb_horas_por_dia"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:paddingTop="16dp"
+                    android:paddingBottom="16dp"
+                    android:enabled="false"
+                    android:text="Horas/Dia"/>
+                <RadioButton
+                    android:id="@+id/rb_horas_por_semana"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:paddingTop="16dp"
+                    android:paddingBottom="16dp"
+                    android:enabled="false"
+                    android:text="Horas/Semana"/>
+                <RadioButton
+                    android:id="@+id/rb_horas_por_mes"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:paddingTop="16dp"
+                    android:paddingBottom="16dp"
+                    android:enabled="false"
+                    android:text="Horas/Mês"/>
+
+            </RadioGroup>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

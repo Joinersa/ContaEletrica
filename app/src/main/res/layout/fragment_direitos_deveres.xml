@@ -1,0 +1,179 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="br.com.joinersa.contaeletrica.fragments.FragmentDireitosDeveres">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp"
+                android:layout_marginTop="16dp"
+                android:text="Direitos"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:text="•	Ter no mínimo seis opções de data de vencimento da sua conta de energia."
+                android:textColor="@color/corNomeEletro" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingTop="8dp"
+                android:text="•	Receber a conta de luz pelo menos 5 dias úteis antes do vencimento."
+                android:textColor="@color/corNomeEletro" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingTop="8dp"
+                android:text="•	Ser informado em até 30 dias sobre a solução de uma reclamação feita."
+                android:textColor="@color/corNomeEletro" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingTop="8dp"
+                android:text="•	Ser restituído por eventuais prejuízos causados por falhas no fornecimento de energia elétrica."
+                android:textColor="@color/corNomeEletro" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingTop="8dp"
+                android:text="•	Ser avisado com pelo menos 15 dias de antecedência sobre o corte de energia por falta de pagamento."
+                android:textColor="@color/corNomeEletro" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingTop="8dp"
+                android:text="•	Solicitar a verificação de leitura do medidor, caso a sua conta de luz venha com um valor muito maior ou menor que o normal."
+                android:textColor="@color/corNomeEletro" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingTop="8dp"
+                android:text="•	Ter a luz de volta no máximo em até 4 horas caso tenha sido cortada indevidamente."
+                android:textColor="@color/corNomeEletro" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingTop="8dp"
+                android:text="•	Ter energia restabelecida em 48 horas depois de cessado o motivo do corte."
+                android:textColor="@color/corNomeEletro" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingTop="8dp"
+                android:text="•	Ter à disposição um livro para reclamações e sugestões em todos os postos de atendimento da concessionária."
+                android:textColor="@color/corNomeEletro" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginBottom="16dp"
+                android:layout_marginTop="16dp"
+                android:background="#edecec" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp"
+                android:text="Deveres"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:text="•	Celebrar contrato de fornecimento com a concessionária, quando fornecerá informações sobre a carga prevista. Alterações significativas nesta carga também devem ser comunicadas à empresa."
+                android:textColor="@color/corNomeEletro" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingTop="8dp"
+                android:text="•	Instalar em local adequado e de fácil acesso os dispositivos necessários para medidor de consumo e equipamentos de proteção."
+                android:textColor="@color/corNomeEletro" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingTop="8dp"
+                android:text="•	Manter sob sua guarda, na condição depositário fiel e gratuito, os equipamentos de medição do concessionário."
+                android:textColor="@color/corNomeEletro" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingTop="8dp"
+                android:text="•	Reformar ou substituir instalações elétricas internas da unidade consumidora que estiverem em desacordo com as normas, especialmente em relação aos aspectos de segurança."
+                android:textColor="@color/corNomeEletro" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingTop="8dp"
+                android:text="•	Pagar pontualmente os serviços prestados pelo fornecimento da energia."
+                android:textColor="@color/corNomeEletro" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginBottom="16dp"
+                android:layout_marginTop="16dp"
+                android:background="#edecec" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

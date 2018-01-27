@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="colorAccent">#FF5722</color>
+
+    <color name="botaoFlutuante">#FF5722</color>
+    <color name="botaoFlutuantePressionado">#E64A19</color>
+    <color name="colorLight">#607D8B</color>
+
+    <color name="corAtributosEletro">#999999</color>
+    <color name="corNomeEletro">#222222</color>
+
+    <color name="corItemSelecionado">#dedede</color>
+    <color name="corComponenteSelecionavel">#ffffff</color>
+
+    <color name="corTextoResultado">#3238b7</color>
+
+    <color name="colorButtonCustoConsumo">#0d47a1</color>
+    <color name="colorButtonEstisticaGeral">#1976d2</color>
+    <color name="colorButtonDicas">#2196f3</color>
+    <color name="colorButtonSobre">#64b5f6</color>
+
+</resources>

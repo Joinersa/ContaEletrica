@@ -1,0 +1,482 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="br.com.joinersa.contaeletrica.fragments.FragmentDicas">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp"
+                android:layout_marginTop="16dp"
+                android:text="Chuveiro Elétrico"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:text="•	O chuveiro elétrico representa de 25% a 35% do valor da sua conta. Nos dias quentes, coloque-o na posição ”Verão”. Assim, o consumo será cerca de 30% menor."
+                android:textColor="@color/corNomeEletro" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingTop="8dp"
+                android:text="•	Limpe periodicamente os orifícios de saída de água do chuveiro."
+                android:textColor="@color/corNomeEletro" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingTop="8dp"
+                android:text="•	Nunca reaproveite uma resistência queimada. Isso provoca o aumento do consumo e coloca em risco a sua segurança."
+                android:textColor="@color/corNomeEletro" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginBottom="16dp"
+                android:layout_marginTop="16dp"
+                android:background="#edecec" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp"
+                android:text="Ar Condicionado"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:text="•	O ar-condicionado representa de 2% a 5% do valor da sua conta de luz. Instale o aparelho em local com boa circulação de ar."
+                android:textColor="@color/corNomeEletro" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingTop="8dp"
+                android:text="•	Mantenha portas e janelas fechadas, evitando assim a entrada de ar do ambiente externo."
+                android:textColor="@color/corNomeEletro" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingTop="8dp"
+                android:text="•	Limpe sempre os filtros. A sujeira impede a livre circulação do ar e força o aparelho a trabalhar mais."
+                android:textColor="@color/corNomeEletro" />
+
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginBottom="16dp"
+                android:layout_marginTop="16dp"
+                android:background="#edecec" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp"
+                android:text="Lâmpada"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:text="•	A iluminação representa de 15% a 25% do valor da sua conta. Nos banheiros, cozinha, lavanderia e garagem, instale, se possível, lâmpadas fluorescentes. Elas iluminam melhor, duram mais e gastam menos energia."
+                android:textColor="@color/corNomeEletro" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingTop="8dp"
+                android:text="•	Se, para iluminar sua cozinha, você utiliza uma lâmpada incandescente de 100 watts, ao substituí-la por uma fluorescente de 32 watts (circular), estará economizando 2/3 da energia e tendo uma durabilidade de 5 a 10 vezes maior."
+                android:textColor="@color/corNomeEletro" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingTop="8dp"
+                android:text="•	Pinte as paredes internas e os tetos da casa com cores claras. Elas refletem e espalham a luz para todo o ambiente."
+                android:textColor="@color/corNomeEletro" />
+
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginBottom="16dp"
+                android:layout_marginTop="16dp"
+                android:background="#edecec" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp"
+                android:text="Geladeira"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:text="•	A geladeira contribui com 25% a 30% do valor da sua conta de luz. Nunca utilize a parte traseira da geladeira para secar panos e roupas."
+                android:textColor="@color/corNomeEletro" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingTop="8dp"
+                android:text="•	Instale a geladeira em local bem ventilado, desencostada de paredes ou móveis, longe de raios solares e fontes de calor, como fogões e estufas."
+                android:textColor="@color/corNomeEletro" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingTop="8dp"
+                android:text="•	Nunca coloque alimentos quentes ou recipientes com líquidos destampados na geladeira. Com isso, você não exigirá um esforço maior do motor."
+                android:textColor="@color/corNomeEletro" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginBottom="16dp"
+                android:layout_marginTop="16dp"
+                android:background="#edecec" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp"
+                android:text="Televisor"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:text="•	O televisor representa de 10% a 15% do valor da sua conta de luz. Evite deixar o televisor ligado sem necessidade."
+                android:textColor="@color/corNomeEletro" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingTop="8dp"
+                android:text="•	Evite deixar aparelhos eletrônicos em stand-by. Apesar de desligados, esse modo pode representar um gasto mensal de até 12%."
+                android:textColor="@color/corNomeEletro" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingTop="8dp"
+                android:text="•	Quando viajar, desligue a chave geral da casa para não gastar energia com coisas desnecessárias."
+                android:textColor="@color/corNomeEletro" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginBottom="16dp"
+                android:layout_marginTop="16dp"
+                android:background="#edecec" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp"
+                android:text="Máquina de Lavar Roupa"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:text="•	A máquina de lavar roupa representa de 2% a 5% do valor da sua conta de luz. Limpe frequentemente o filtro da máquina, que entupido passa a exigir mais do motor, aumentando o consumo de energia."
+                android:textColor="@color/corNomeEletro" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingTop="8dp"
+                android:text="•	Procure ligar a máquina só quando ela estiver com a capacidade máxima de roupas indicada pelo fabricante. Isso vai ajudar você a economizar energia e água."
+                android:textColor="@color/corNomeEletro" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingTop="8dp"
+                android:text="•	Leia com atenção o manual do fabricante e aproveite ao máximo a capacidade da sua máquina de lavar roupa."
+                android:textColor="@color/corNomeEletro" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginBottom="16dp"
+                android:layout_marginTop="16dp"
+                android:background="#edecec" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp"
+                android:text="Ferro Elétrico"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:text="•	O ferro elétrico representa de 5% a 7% do valor da sua conta de luz. Acumule o maior número de peças de roupa para ligar o ferro o mínimo de vezes."
+                android:textColor="@color/corNomeEletro" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingTop="8dp"
+                android:text="•	Comece a passar a roupa sempre pelos tecidos que exigem temperaturas mais baixas. Ferros automáticos têm indicadores de temperatura para cada tecido."
+                android:textColor="@color/corNomeEletro" />
+
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginBottom="16dp"
+                android:layout_marginTop="16dp"
+                android:background="#edecec" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp"
+                android:text="Instalações Elétricas"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:text="•	Elimine emendas mal feitas, fios ou cabos desencapados, ou com isolamento comprometido."
+                android:textColor="@color/corNomeEletro" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingTop="8dp"
+                android:text="•	Evite o uso de benjamins. Eles provocam sobrecarga nas tomadas e podem causar acidentes."
+                android:textColor="@color/corNomeEletro" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingTop="8dp"
+                android:text="•	Elimine sobrecarga nos circuitos para evitar o aquecimento dos condutores."
+                android:textColor="@color/corNomeEletro" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingTop="8dp"
+                android:text="•	Ao adquirir equipamentos elétricos, confira a voltagem para saber se a fiação suporta a nova carga."
+                android:textColor="@color/corNomeEletro" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginBottom="16dp"
+                android:layout_marginTop="16dp"
+                android:background="#edecec" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp"
+                android:text="Computadores e outros equipamentos"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:text="•	Ative o energy saver do seu monitor (modo econômico)."
+                android:textColor="@color/corNomeEletro" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingTop="8dp"
+                android:text="•	Não deixe transformadores (ex: 110/220) ligados na tomada desnecessariamente. Mesmo fora de uso, eles consomem energia."
+                android:textColor="@color/corNomeEletro" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingTop="8dp"
+                android:text="•	Diminua o brilho da tela LCD do celular e computador."
+                android:textColor="@color/corNomeEletro" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingTop="8dp"
+                android:text="•	Se você costuma manter o carregador do seu celular o tempo todo conectado à tomada, saiba que 95% da energia que ele consome é totalmente desperdiçada."
+                android:textColor="@color/corNomeEletro" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginBottom="16dp"
+                android:layout_marginTop="16dp"
+                android:background="#edecec" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp"
+                android:text="Outros"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:text="•	Evite usar os venenos de tomada para economizar energia ou deixe-o na tomada apenas quando estiver no ambiente. Para espantar moscas e mosquitos experimente acender velas ou incensos de citronela."
+                android:textColor="@color/corNomeEletro" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingTop="8dp"
+                android:text="•	Diminua o tempo de uso do secador e da chapinha, deixando o cabelo secar naturalmente por 15 minutos antes de usar o aparelho."
+                android:textColor="@color/corNomeEletro" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingTop="8dp"
+                android:text="•	Desligue o ventilador quando o cômodo estiver sem ninguém. O ventilador apenas refresca o ambiente no momento em que está ligado."
+                android:textColor="@color/corNomeEletro" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingTop="8dp"
+                android:text="•	Evite usar o aquecedor de ambientes e se for usar, desligue-o quando a casa já estiver aquecida."
+                android:textColor="@color/corNomeEletro" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginBottom="16dp"
+                android:layout_marginTop="16dp"
+                android:background="#edecec" />
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Conta Elétrica</string>
+    <string name="botao_salvar">Salvar</string>
+    <string name="title_activity_main">Custo e Consumo</string>
+    <string name="title_activity_concessionaria">Concessionária</string>
+    <string name="title_activity_lista_aparelhos">Escolha um aparelho</string>
+    <string name="title_activity_resultados">Resultados</string>
+    <string name="title_activity_item">Item</string>
+    <string name="title_activity_dicas">Informações</string>
+    <string name="title_activity_historico">Histórico</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

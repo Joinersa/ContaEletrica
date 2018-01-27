@@ -1,0 +1,137 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="br.com.joinersa.contaeletrica.fragments.FragmentCuriosidades">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp"
+                android:layout_marginTop="16dp"
+                android:text="Curiosidades"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:id="@+id/textView" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:text="•	Os refrigeradores antigos gastam mais energia do que os modelos novos. É porque suas borrachas de vedação e seu gás refrigerante perdem a eficácia com o tempo."
+                android:textColor="@color/corNomeEletro" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingTop="8dp"
+                android:text="•	Para saber se a borracha de vedação está boa, ponha uma folha de papel encostada no batente do refrigerador e feche a porta. Em seguida, puxe a folha. Se ela deslizar facilmente, é sinal de que a borracha não está garantindo vedação."
+                android:textColor="@color/corNomeEletro" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingTop="8dp"
+                android:text="•	Trocar uma lâmpada incandescente de 60W por uma eficiente de 15W mantém a mesma luminosidade com mais economia."
+                android:textColor="@color/corNomeEletro" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingTop="8dp"
+                android:text="•	O aumento excessivo do número de acendimentos de lâmpadas reduz sua vida útil, portanto, em locais de pouco tempo de permanência e com elevada utilização, lâmpadas fluorescentes não são adequadas."
+                android:textColor="@color/corNomeEletro" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingTop="8dp"
+                android:text="•	O tempo que o ferro elétrico demora a esfriar depois que é desligado pode ser aproveitado para passar algumas peças de roupas mais leves."
+                android:textColor="@color/corNomeEletro" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingTop="8dp"
+                android:text="•	Evitar o uso do stand by (modo de espera) de aparelhos como micro-ondas, TV e DVD pode economizar até 32kWh por mês."
+                android:textColor="@color/corNomeEletro" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingTop="8dp"
+                android:text="•	Colocar garrafas com água sobre o medidor não economiza energia.  Além disso, você poderá ter até prejuízo, caso a água vaze para dentro do medidor, causando um curto-circuito."
+                android:textColor="@color/corNomeEletro" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingTop="8dp"
+                android:text="•	Mesmo se você não usar a energia elétrica por um determinado período, quando viaja de férias, por exemplo, a distribuidora cobra o valor mínimo na fatura. É o chamado custo de disponibilidade. Isso ocorre porque a empresa tem que manter seu sistema elétrico e sua estrutura de atendimento para que o consumidor possa utilizar a energia no momento em que desejar."
+                android:textColor="@color/corNomeEletro" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingTop="8dp"
+                android:text="•	Na conta de luz estão presentes tributos federais, estaduais e municipais.  As distribuidoras apenas recolhem e repassam esses tributos às autoridades competentes pela sua cobrança."
+                android:textColor="@color/corNomeEletro" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingTop="8dp"
+                android:text="•	Na aplicação das tarifas de energia elétrica, os consumidores são identificados por classes e subclasses de consumo: residencial; industrial; comercial e serviços; rural; poder público; iluminação pública; serviço público, e consumo próprio. Cada classe tem uma estrutura tarifária distinta, de acordo com as peculiaridades de consumo de energia e de demanda de potência."
+                android:textColor="@color/corNomeEletro" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingTop="8dp"
+                android:text="•	O desperdício de energia elétrica no Brasil é de quase 18% de toda a energia gerada no país. É como se “jogássemos no lixo”, a cada ano, quase duas vezes a energia produzida pela Cemig."
+                android:textColor="@color/corNomeEletro" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginBottom="16dp"
+                android:layout_marginTop="16dp"
+                android:background="#edecec" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

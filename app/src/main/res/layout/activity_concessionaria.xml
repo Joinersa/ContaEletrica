@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:background="@color/corComponenteSelecionavel"
+    android:weightSum="1"
+    tools:context=".activity.ConcessionariaActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar_concessionaria"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:minHeight="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+    </android.support.design.widget.AppBarLayout>
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Selecione a concessionária responsável pela distribuição de sua energia elétrica"
+                android:padding="10dp"
+                android:gravity="center_horizontal"
+                android:textStyle="italic"
+                android:typeface="serif"
+                android:textColor="#ffffff"
+                android:background="@color/corAtributosEletro"/>
+
+            <!-- Concessionária: -->
+            <include
+                android:id="@+id/inc_concessionaria_selecionada"
+                android:clickable="true"
+                layout="@layout/componente_selecionavel_3" />
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>
