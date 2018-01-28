@@ -45,8 +45,8 @@ Para quem tem possue o aplicativo da **Amazon AppStore**, pode baixar o **Conta 
 
 # Desenvolvido por
 
-*Joiner Sá*
- * [E-mail]()<joinersa@hotmail.com>
+ Joiner Sá
+ * E-mail: <joinersa@hotmail.com>
  * [Linkdin]()
  * [Facebook](https://www.facebook.com/joiner.sa)
 
