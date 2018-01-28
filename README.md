@@ -30,9 +30,9 @@ Aplicativo que auxilia no gerenciamento de **contas de energia elétrica**. Ele 
 
 # Loja
 ## Amazon AppStore
-Para quem possue o aplicativo da **Amazon AppStore**, o **Conta Elétrica** pode ser baixado em na loja [Amazon AppStore](https://www.amazon.com.br/mobile-apps/b?ie=UTF8&node=6446175011)
+Para quem possue o aplicativo da **Amazon AppStore**, o **Conta Elétrica** pode ser baixado em [Amazon AppStore](https://www.amazon.com.br/mobile-apps/b?ie=UTF8&node=6446175011)
 
-## Screenshots
+# Screenshots
 ![Image](https://github.com/Joinersa/ContaEletrica/blob/master/scrennshots/scrennshot_1.png)
 ![Image](https://github.com/Joinersa/ContaEletrica/blob/master/scrennshots/scrennshot_2.png)
 
