@@ -50,9 +50,9 @@ Para quem possue o aplicativo da **Amazon AppStore**, o **Conta Elétrica** pode
 
  Joiner Sá
 * **E-mail**: <joinersa@hotmail.com>
-* [Linkdin](https://www.linkedin.com/in/joiner-s%C3%A1-367342b7/)
 * [Facebook](https://www.facebook.com/joiner.sa)
-* [WhatsApp](https://api.whatsapp.com/send?phone=+559192228133)
+* [WhatsApp (+55 91 92228133)](https://api.whatsapp.com/send?phone=+559192228133)
+* [Linkdin](https://www.linkedin.com/in/joiner-s%C3%A1-367342b7/)
 
 # License
 
