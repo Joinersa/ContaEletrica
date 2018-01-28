@@ -15,7 +15,7 @@ Aplicativo que auxilia no gerenciamento de **contas de energia elétrica**. Ele 
 - Java
 
 ### Informações Técnicas
-- Compatibilidade: [![API](https://img.shields.io/badge/API-8%2B-green.svg?style=flat)](https://android-arsenal.com/api?level=14)
+- Compatibilidade: [![API](https://img.shields.io/badge/API-14%2B-green.svg?style=flat)](https://android-arsenal.com/api?level=14)
 - Não requer nenhuma permissão
 
 ### Bibliotecas utilizadas
