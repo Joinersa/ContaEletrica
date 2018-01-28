@@ -46,10 +46,10 @@ Para quem possue o aplicativo da **Amazon AppStore**, o **Conta Elétrica** pode
 # Desenvolvido por
 
  Joiner Sá
-* **E-mail**: <joinersa@hotmail.com> ![Image](https://github.com/Joinersa/ContaEletrica/blob/master/scrennshots/arroba.png)
-* [Linkdin](https://www.linkedin.com/in/joiner-s%C3%A1-367342b7/) (![Image](https://github.com/Joinersa/ContaEletrica/blob/master/scrennshots/linkedin.png))
-* [Facebook](https://www.facebook.com/joiner.sa) ![Image](https://github.com/Joinersa/ContaEletrica/blob/master/scrennshots/facebook.png)
-* **WhatsApp**: +55 91 992228133 ![Image](https://github.com/Joinersa/ContaEletrica/blob/master/scrennshots/whatsapp.png)
+* **E-mail**: <joinersa@hotmail.com>
+* [Linkdin](https://www.linkedin.com/in/joiner-s%C3%A1-367342b7/)
+* [Facebook](https://www.facebook.com/joiner.sa)
+* **WhatsApp**: +55 91 992228133
 
 # License
 
