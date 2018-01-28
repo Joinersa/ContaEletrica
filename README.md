@@ -52,7 +52,7 @@ Para quem possue o aplicativo da **Amazon AppStore**, o **Conta Elétrica** pode
 * **E-mail**: <joinersa@hotmail.com>
 * [Linkdin](https://www.linkedin.com/in/joiner-s%C3%A1-367342b7/)
 * [Facebook](https://www.facebook.com/joiner.sa)
-* **WhatsApp**: +55 91 992228133
+* [WhatsApp](https://api.whatsapp.com/send?phone=+559192228133&text=sua%20mensagem)
 
 # License
 
