@@ -1,5 +1,5 @@
-![Image](https://github.com/Joinersa/ContaEletrica/blob/master/scrennshots/logo_small.png) # Conta Elétrica 
-
+# Conta Elétrica
+![Image](https://github.com/Joinersa/ContaEletrica/blob/master/scrennshots/logo_small.png)
 
 Aplicativo que auxilia no gerenciamento de **contas de energia elétrica**. Ele apresenta uma estimativa de custo e consumo de uma lista aparelhos residenciais.
 
