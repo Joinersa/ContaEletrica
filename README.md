@@ -26,11 +26,11 @@ Aplicativo que auxilia no gerenciamento de **contas de energia elétrica**. Ele 
 - [Nine Old Androids](https://github.com/JakeWharton/NineOldAndroids)
 
 # Arquivo de instalação APK
-**Baixe** e instale o aplicativo **Conta Elétrica** [AQUI](http://...)
+**Baixe** e instale o aplicativo **Conta Elétrica** [AQUI]()
 
 # Loja
 ## Amazon AppStore
-Para quem possue o aplicativo da **Amazon AppStore**, pode baixar o **Conta Elétrica** da loja [Amazon AppStore](https://...)
+Para quem possue o aplicativo da **Amazon AppStore**, o **Conta Elétrica** pode ser baixado em na loja [Amazon AppStore](https://www.amazon.com.br/mobile-apps/b?ie=UTF8&node=6446175011)
 
 ## Screenshots
 ![Image](https://github.com/Joinersa/ContaEletrica/blob/master/scrennshots/scrennshot_1.png)
@@ -46,10 +46,10 @@ Para quem possue o aplicativo da **Amazon AppStore**, pode baixar o **Conta Elé
 # Desenvolvido por
 
  Joiner Sá
- * E-mail: <joinersa@hotmail.com>
- * [Linkdin]()
- * [Facebook](https://www.facebook.com/joiner.sa)
-
+* **E-mail**: <joinersa@hotmail.com>
+* [Linkdin](https://www.linkedin.com/in/joiner-s%C3%A1-367342b7/)
+* [Facebook](https://www.facebook.com/joiner.sa)
+* **WhatsApp**: +55 91 992228133
 
 # License
 
