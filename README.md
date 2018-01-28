@@ -1,8 +1,9 @@
 # Conta Elétrica
+![Image](https://github.com/Joinersa/ContaEletrica/tree/master/scrennshots/logo_small.png)
 
-Aplicativo que auxilia no gerenciamento da **contas de energia elétrica**. Ele apresenta uma estimativa de custo e consumo de uma lista aparelhos eletro-eletrônicos residenciais.
+Aplicativo que auxilia no gerenciamento de **contas de energia elétrica**. Ele apresenta uma estimativa de custo e consumo de uma lista aparelhos residenciais.
 
-**Aplicativo desenvolvido durante uma disciplina do curso de Sistemas de Informação da Universidade Federal do Pará (UFPA) do Campus de Cametá**
+**Aplicativo desenvolvido durante uma disciplina do curso de Sistemas de Informação da Universidade Federal do Pará (UFPA) do Campus de Cametá.**
 
 ### Funcionalidades
 - Calcula consumo em quilo watt hora (**kWh**)
@@ -13,17 +14,16 @@ Aplicativo que auxilia no gerenciamento da **contas de energia elétrica**. Ele 
 ### Linguagem de Programação
 - Java
 
-### Informações Tecnicas
-- Compatibilidade: apartir da API 14
+### Informações Técnicas
+- Compatibilidade: [![API](https://img.shields.io/badge/API-8%2B-green.svg?style=flat)](https://android-arsenal.com/api?level=14)
 - Não requer nenhuma permissão
 
 ### Bibliotecas utilizadas
-- 'com.github.shell-software:fab:1.1.2'
-- 'com.nineoldandroids:library:2.4.0'
-- 'com.daimajia.easing:library:1.0.1@aar'
-- 'com.daimajia.androidanimations:library:1.1.3@aar'
-- 'com.github.PhilJay:MPAndroidChart:v3.0.0-beta1'
-- 'compile 'uk.co.samuelwall:material-tap-target-prompt:1.9.3'
+- [Android View Animations](https://github.com/daimajia/AndroidViewAnimations)
+- [Floating Action Button Library for Android](https://github.com/Scalified/fab)
+- [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
+- [Material Tap Target Prompt](https://github.com/sjwall/MaterialTapTargetPrompt)
+- [Nine Old Androids](https://github.com/JakeWharton/NineOldAndroids)
 
 # Arquivo de instalação APK
 **Baixe** e instale o aplicativo **Conta Elétrica** [AQUI](http://...)
@@ -33,8 +33,8 @@ Aplicativo que auxilia no gerenciamento da **contas de energia elétrica**. Ele 
 Para quem tem possue o aplicativo da **Amazon AppStore**, pode baixar o **Conta Elétrica** da loja [Amazon AppStore](https://...)
 
 ## Screenshots
-![Image](https://raw.githubusercontent.com/mikepenz/MaterialDrawer/develop/DEV/github/screenshots1.jpg)
-![Image](https://raw.githubusercontent.com/mikepenz/MaterialDrawer/develop/DEV/github/screenshots2.jpg)
+![Image](https://github.com/Joinersa/ContaEletrica/tree/master/scrennshots/scrennshot_1.png)
+![Image](https://github.com/Joinersa/ContaEletrica/tree/master/scrennshots/scrennshot_2.png)
 
 
 # Fonte de informações utilizadas
@@ -45,8 +45,8 @@ Para quem tem possue o aplicativo da **Amazon AppStore**, pode baixar o **Conta 
 
 # Desenvolvido por
 
-* Joiner Sá
- * [E-mail]<joinersa@hotmail.com>
+*Joiner Sá*
+ * [E-mail]()<joinersa@hotmail.com>
  * [Linkdin]()
  * [Facebook](https://www.facebook.com/joiner.sa)
 
