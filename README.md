@@ -3,7 +3,7 @@
 
 Aplicativo que auxilia no gerenciamento de **contas de energia elétrica**. Ele apresenta uma estimativa de custo e consumo de uma lista aparelhos residenciais.
 
-**Aplicativo desenvolvido durante uma disciplina do curso de Sistemas de Informação da Universidade Federal do Pará (UFPA) do Campus de Cametá.**
+**Aplicativo desenvolvido em 2016 durante uma disciplina do curso de Sistemas de Informação da Universidade Federal do Pará (UFPA) do Campus de Cametá.**
 
 ### Funcionalidades
 - Calcula consumo em quilo watt hora (**kWh**)
