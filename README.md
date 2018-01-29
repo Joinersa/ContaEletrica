@@ -11,9 +11,6 @@ Aplicativo que auxilia no gerenciamento de **contas de energia elétrica**. Ele 
 - Gera histórico de custo e consumo mensal
 - Apresenta informações como **direitos**, **deveres**, **dicas** e **curiosidades** sobre assuntos relacionados à conta de energia
 
-### Linguagem de Programação
-- Java
-
 ### Informações Técnicas
 - Compatibilidade: [![API](https://img.shields.io/badge/API-14%2B-green.svg?style=flat)](https://android-arsenal.com/api?level=14)
 - Não requer nenhuma permissão
@@ -52,9 +49,9 @@ Para quem possue o aplicativo da **Amazon AppStore**, o **Conta Elétrica** pode
 * **E-mail**: <joinersa@hotmail.com>
 * [Facebook](https://www.facebook.com/joiner.sa)
 * [WhatsApp (+55 91 92228133)](https://api.whatsapp.com/send?phone=+559192228133)
-* [Linkdin](https://www.linkedin.com/in/joiner-s%C3%A1-367342b7/)
+* [LinkedIn](https://www.linkedin.com/in/joiner-s%C3%A1-367342b7/)
 
-# License
+# Licença
 
     Copyright 2018 Joiner Sá
 
