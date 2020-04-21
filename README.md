@@ -25,13 +25,6 @@ Aplicativo que auxilia no gerenciamento de **contas de energia elétrica**. Ele 
 # Arquivo de instalação APK
 **Baixe** e instale o aplicativo **Conta Elétrica** **[AQUI](https://drive.google.com/open?id=1XiqDzALE5Bq3SqdxRhMmaFcFAW1TKkQo)**
 
-# Loja
-## Amazon AppStore
-
-Para quem possue o aplicativo da **Amazon AppStore**, o **Conta Elétrica** pode ser baixado em [Amazon AppStore](https://www.amazon.com.br/dp/B079CQQL2N/ref=sr_1_7?s=mobile-apps&ie=UTF8&qid=1517147181&sr=1-7&keywords=Conta)
-
-[![Image](https://github.com/Joinersa/ContaEletrica/blob/master/scrennshots/ic_amazon.png)](https://www.amazon.com.br/dp/B079CQQL2N/ref=sr_1_7?s=mobile-apps&ie=UTF8&qid=1517147181&sr=1-7&keywords=Conta)
-
 # Screenshots
 ![Image](https://github.com/Joinersa/ContaEletrica/blob/master/scrennshots/scrennshot_1.png)
 ![Image](https://github.com/Joinersa/ContaEletrica/blob/master/scrennshots/scrennshot_2.png)
