@@ -35,15 +35,6 @@ Aplicativo que auxilia no gerenciamento de **contas de energia elétrica**. Ele 
 - [ABRADEE - Associação Brasileira de Distribuidores de Enegia Elétrica](http://www.abradee.com.br/)
 - [CPFL](http://www.cpfl.com.br/)
 
-
-# Desenvolvido por
-
- Joiner Sá
-* **E-mail**: <joinersa@hotmail.com>
-* [Facebook](https://www.facebook.com/joiner.sa)
-* [WhatsApp (+55 91 92228133)](https://api.whatsapp.com/send?phone=+559192228133)
-* [LinkedIn](https://www.linkedin.com/in/joiner-s%C3%A1-367342b7/)
-
 # Licença
 
     Copyright 2018 Joiner Sá
